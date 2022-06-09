@@ -6,7 +6,7 @@ SUID and SGID for are highlighted
 if we run the SUID we do not know what is happening so we use strings we can se there is no file present as config
 
 
-![](/images/suid.png)
+![](/Linux-Privilege-Notes/images/suid.png)
 we can override libcalc.so add something malicious 
 
 Code Below 
@@ -25,4 +25,4 @@ void inject(){
 
 like below 
 
-![](/images/shared_object.png)
+![](/Linux-Privilege-Notes/images/shared_object.png)
