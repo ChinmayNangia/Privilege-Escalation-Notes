@@ -8,14 +8,14 @@ if we do
 `find  / -type f -perm -04000 -ls 2>/dev/null`
 
 
-![](/images/suid_mew.png)
+![](/Linux-Privilege-Notes/images/suid_mew.png)
  lets say we find  **/usr/local/bin/suid-env**
  
  
  
  binary if we what it does we found that it is actually starting a apache service  as below 
 
-![](/images/suid_new.png)
+![](/Linux-Privilege-Notes/images/suid_new.png)
 
 
 Exploitation 
@@ -52,7 +52,7 @@ then run the SUID  **/usr/local/bin/suid-env**
 **PART 2**
 
 
-![](/images/suid_new_1.png)
+![](/Linux-Privilege-Notes/images/suid_new_1.png)
 
 what if the SUID is calling the full path 
 
