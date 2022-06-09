@@ -3,7 +3,7 @@ this means that the shared libraries are loaded first and to exploit first we ha
 How to understand the vulnerability
 `env_keep=LD_PRELOAD` is enables this means it is vulnerable to LD_PREALOAD
  
-![](/images/sudo%20-l.png)
+![](/Linux-Privilege-Notes/images/sudo%20-l.png)
 
 Exploitation 
 create a file called shell.c
