@@ -5,7 +5,7 @@ in here cronjobs tab
 https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Linux%20-%20Privilege%20Escalation.md
 
 
-![](/images/cronjobs.png)
+![](/Linux-Privilege-Notes/images/cronjobs.png)
 
 here we can see 2 process are running as root 
 
