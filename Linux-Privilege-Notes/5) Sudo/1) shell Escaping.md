@@ -2,7 +2,7 @@
 Example for shell escaping
 
 
-![](/images/sudo%20-l.png)
+![](/Linux-Privilege-Notes/images/sudo%20-l.png)
 
 
 
