@@ -1,4 +1,4 @@
-![](/images/sudo%20no%20root.png)
+![](/Linux-Privilege-Notes/images/sudo%20no%20root.png)
 
 
 if we see !root in the sudo permissions then use 
