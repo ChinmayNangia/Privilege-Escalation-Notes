@@ -4,7 +4,9 @@ in CMD type
 `reg query HKLM\Software\Policies\Microsoft\Windows\Installer`
 
 and we can se 
-![[always_installed_Elevated-1.png]]
+<br><br>
+![](/Windows-Privilege-Escalation-Notes/windows_images/always_installed_Elevated-1.png)
+
 Always installed Elevated = 1 this means we can abuse that 
 
 
