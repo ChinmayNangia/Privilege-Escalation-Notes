@@ -9,7 +9,7 @@
 7) Capabilities
 8) Schedules Task Cronjobs
 9) NFS Root Squashing 
-<br><br>
+<br>
 **Windows Topics Covered**
 1) Initial Enumeration
 2) Automated Tools
