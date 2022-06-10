@@ -8,7 +8,9 @@ to do that use the command
 
 
 we can see we have full control over the `NT\AUTHORITY Interactive`
-![[service escalation registry -1.png]]
+<br><br>
+![](/Windows-Privilege-Escalation-Notes/windows_images/service%20escalation%20registry%20-1.png)
+
 
 we can maliciously add the executable to the service and restart the service
 and done that will add user to admin
