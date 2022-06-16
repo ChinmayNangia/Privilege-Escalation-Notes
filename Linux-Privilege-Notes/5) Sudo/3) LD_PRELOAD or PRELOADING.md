@@ -32,4 +32,4 @@ run the file with binaries/files with have root permissions to work with
 
 "
 
-![](/images/sudo%20ld_preload.png)
+![](/Linux-Privilege-Notes/images/sudo%20ld_preload.png)
